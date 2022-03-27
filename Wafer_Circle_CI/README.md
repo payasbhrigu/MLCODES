@@ -1,1 +1,0 @@
-WAFER FAULT PREDICTION - E2E Cloud Project with CI/CD
